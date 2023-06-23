@@ -1,4 +1,4 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class MazeMeshGenerator
@@ -9,7 +9,7 @@ public class MazeMeshGenerator
 
     public MazeMeshGenerator()
     {
-        width = 3.75f;
+        width = 3.75f; // How big the meshes are
         height = 3.5f;
     }
 
